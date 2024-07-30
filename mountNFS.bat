@@ -1,0 +1,1 @@
+mount -o anon \\172.173.174.84\export\ext1.5 Z:

@@ -1,0 +1,8 @@
+Set-ExecutionPolicy RemoteSigned
+---------------
+cd\
+cd "nome da pasta"
+.\Windows10SysPrepDebloater.ps1 -Sysprep -Debloat -Privacy
+.\Windows10DebloaterGUI.ps1
+----------------
+Set-ExecutionPolicy Restricted
